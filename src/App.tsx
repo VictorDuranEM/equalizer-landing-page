@@ -6,7 +6,7 @@ import bodyBgPattern from './assets/images/bg-pattern-2.svg'
 
 function App() {
   return (
-    <div className='xl:min-h-[1900px] bg-mobile bg-no-repeat md:bg-tablet xl:bg-desktop h-screen'>
+    <div className='xl:min-h-[1800px] bg-mobile bg-no-repeat md:bg-tablet xl:bg-desktop h-screen'>
       <div className='py-10 px-6 md:py-[3.875rem] md:px-10 xl:px-40'>
         <Logo />
       </div>
