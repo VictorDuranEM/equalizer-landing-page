@@ -47,6 +47,6 @@ In future projects I want to explore the posibilities of doing the same things I
 
 ## Author
 
-- Website - [EnterMatch](https://entermatch.com/)
+- Website - [EnterMatch](https://entermatch.io/)
 - Frontend Mentor - [@VictorDuranEM](https://www.frontendmentor.io/profile/VictorDuranEM)
 - Twitter - [@EnterMatchPulse](https://twitter.com/EnterMatchPulse)
